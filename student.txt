@@ -1,0 +1,10 @@
+ID = 6666 
+Name = Hari Bomjan
+College = NCC
+RollNo =3
+Phone = 984561203
+ID = 5555 
+Name = Raz Subedi
+College = NCC
+RollNo =10
+Phone = 956120378
